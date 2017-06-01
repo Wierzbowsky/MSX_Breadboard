@@ -140,9 +140,9 @@
 </layers>
 <board>
 <plain>
-<wire x1="88.9" y1="12.7" x2="100.965" y2="12.7" width="0.254" layer="20"/>
-<wire x1="0.889" y1="58.928" x2="0.889" y2="21.844" width="0.254" layer="20"/>
-<wire x1="0.889" y1="21.844" x2="10.795" y2="21.844" width="0.254" layer="20"/>
+<wire x1="88.9" y1="12.7" x2="100.33" y2="12.7" width="0.254" layer="20"/>
+<wire x1="1.27" y1="58.928" x2="1.27" y2="21.844" width="0.254" layer="20"/>
+<wire x1="1.27" y1="21.844" x2="10.795" y2="21.844" width="0.254" layer="20"/>
 <wire x1="10.795" y1="21.844" x2="10.795" y2="12.7" width="0.254" layer="20"/>
 <wire x1="10.795" y1="12.7" x2="22.86" y2="12.7" width="0.254" layer="20"/>
 <text x="78.74" y="17.78" size="0.6096" layer="25" font="vector" align="top-center">CS1</text>
@@ -247,8 +247,8 @@
 <text x="76.2" y="17.78" size="0.6096" layer="26" font="vector" rot="MR0" align="top-center">CS12</text>
 <text x="99.06" y="38.1" size="1.016" layer="25" font="vector" rot="R90" align="center">Board layout by Alexey Podrezov (2017)</text>
 <text x="99.06" y="38.1" size="1.016" layer="26" font="vector" rot="MR270" align="center">Board layout by Alexey Podrezov (2017)</text>
-<wire x1="100.965" y1="12.7" x2="100.965" y2="58.928" width="0.254" layer="20"/>
-<wire x1="0.889" y1="58.928" x2="100.965" y2="58.928" width="0.254" layer="20"/>
+<wire x1="100.33" y1="12.7" x2="100.33" y2="58.928" width="0.254" layer="20"/>
+<wire x1="1.27" y1="58.928" x2="100.33" y2="58.928" width="0.254" layer="20"/>
 <text x="27.94" y="17.78" size="0.6096" layer="25" font="vector" align="top-center">GND</text>
 <text x="27.94" y="17.78" size="0.6096" layer="26" font="vector" rot="MR0" align="top-center">GND</text>
 <text x="30.48" y="17.78" size="0.6096" layer="25" font="vector" align="top-center">GND</text>
